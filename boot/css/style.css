@@ -1,0 +1,118 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+
+
+.carousel-item {
+   border-radius: 0%;
+  
+   margin-top: 25px;
+   margin-bottom: 15px;
+   
+
+ }
+
+ .carousel{
+   
+   margin-top: 25px;
+   
+ }
+
+.nass{
+   color: blue;
+   font-size:px;
+   font-style: italic;
+   font-weight: bold;
+   text-shadow: 2px 2px;
+}
+.top{
+  background-color:rgb(230, 235, 204);
+}
+
+.icon{
+   font-size:40px ;
+   color:rgb(35, 21, 161);
+   
+}
+.down{
+   background-color: aqua;
+}
+.dat{
+   color: rgb(236, 20, 20);
+   font-size: 20px ;
+}
+.us{
+   background-color: rgba(212, 13, 238, 0.671);
+   color: rgba(20, 20, 20, 0.932);
+   margin-left: 70px;
+   margin-right: 70px;
+   margin-top: 50px;
+}
+.a{
+background-color: aqua;
+width: 88px;
+height: 20px ;
+position:absolute;
+right: 1px;
+}
+   
+.b{
+   background-color: rgb(190, 218, 183);
+   width: 88px;
+   height: 20px ;
+   position:absolute;
+   right: 100px;
+}
+.c{
+   background-color: rgb(223, 14, 188);
+   width: 88px;
+   height: 20px ;
+   position:absolute;
+   right: 200px;
+}
+.d{
+   background-color: rgb(49, 219, 26);
+   width: 88px;
+   height: 20px ;
+   position:absolute;
+   right: 300px;
+   
+}
+.e{
+   background-color: rgb(237, 245, 245);
+   width: 88px;
+   height: 20px ;
+   position:absolute;
+   right: 400px;
+   
+}
+.f{
+   background-color: aqua;
+   width: 88px;
+   height: 20px ;
+   position:absolute;
+   right: 500px;
+   
+}
+.pc{
+   width: 50%;
+   margin: 20px auto 20px auto;
+   line-height: 1;
+   
+   
+}
+.im{
+   width: 10%;
+   height: 10%;
+   clear: right;
+   float: inline-end;
+   
+}
+.i{
+   width: 10%;
+   height: 10%;
+   
+}
+
